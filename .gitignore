@@ -1,0 +1,54 @@
+--- General Windows/OS Ignores ---
+
+Windows specific files
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+System Volume Information/
+
+User data directories (ignore all this noise)
+
+/AppData/
+/Contacts/
+/Desktop/
+/Documents/
+/Downloads/
+/Favorites/
+/Links/
+/Music/
+/Pictures/
+/Videos/
+/Saved Games/
+/Searches/
+/Templates/
+
+Visual Studio Code Cache
+
+.vscode/
+
+--- Python / Virtual Environment Ignores ---
+
+Compiled files
+
+pycache/
+*.pyc
+*.pyd
+*.so
+
+Environments
+
+*.egg-info/
+.venv/
+venv/
+env/
+/cf-python-base/
+/cf-python-copy/
+/my_314_env/
+/base-new-314/
+
+IPython
+
+.ipython/
+.python_history
