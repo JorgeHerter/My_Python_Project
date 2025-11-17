@@ -25,3 +25,9 @@ Installing packages using pip (specifically ipython).
 Using the pip freeze > requirements.txt command for environment portability.
 
 Creating a basic Python script with user input (input() and int()) and output (print()).
+
+recipe_1 = {
+    "name": "Quick Pancakes",
+    "cooking_time": 15,
+    "ingredients": ["flour", "eggs", "milk", "sugar", "baking powder"]
+}
